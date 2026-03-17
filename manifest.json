@@ -2,10 +2,11 @@
   "name": "7+7 Tracker",
   "short_name": "7+7",
   "description": "Tracker personal para 7 Summits + 7 Majors",
-  "start_url": "/",
+  "start_url": "/tracker7-7/",
+  "scope": "/tracker7-7/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F7F7F7",
+  "background_color": "#FF6B00",
   "theme_color": "#FF6B00",
   "icons": [
     {
