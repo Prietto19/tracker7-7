@@ -1,7 +1,7 @@
 {
   "name": "7+7 Tracker",
   "short_name": "7+7",
-  "description": "Tracker personal — 7 Summits + 7 Majors",
+  "description": "Tracker personal - 7 Summits + 7 Majors",
   "start_url": "/tracker7-7/",
   "scope": "/tracker7-7/",
   "display": "standalone",
